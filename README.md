@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**cyanczf/cyanczf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+hi, i'm cyanczf, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GIF
+
+💬 ask me about anything, i am happy to help;
+languages and tools:
+
+         
+
+📊 this week i spent my time on:
+
+TypeScript   9 hrs 54 mins   █████████████████████▒░░░   85.57 %
+JSON         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+SCSS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+Buy Me A Coffee
+
+🚧 my todoist stats:
+
+🏆 0 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 0 tasks so far
+⏳ Longest streak is 0 days
+
+📈 my github stats
+
+abhisheknaiidu
