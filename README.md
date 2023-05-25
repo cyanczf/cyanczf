@@ -9,7 +9,9 @@
 💬有什么事问我，我很乐意帮忙；
 
 📊这周我把时间花在了：<br>
-Java  █████████████████████   100.00 %  <br>
+Java  █████████████████████   100.00 %  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cyanczf)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=cyanczf&theme=column=7" alt="logo" align="center"
+style="margin: auto;"/>
 
