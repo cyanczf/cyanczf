@@ -1,25 +1,12 @@
 ### Hi there 👋
 
 
-hi, i'm cyanczf, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+嗨，我是 cyanczf。
 
-GIF
+💬有什么事问我，我很乐意帮忙；
 
-💬 ask me about anything, i am happy to help;
-languages and tools:
-
-         
-
-📊 this week i spent my time on:
-
-TypeScript   9 hrs 54 mins   █████████████████████▒░░░   85.57 %
-JSON         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-SCSS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-Buy Me A Coffee
+📊这周我把时间花在了：
+Java   21 hrs 46 mins   █████████████████████   100.00 %
 
 🚧 my todoist stats:
 
@@ -27,7 +14,3 @@ Buy Me A Coffee
 🌸 Completed 0 tasks today
 ✅ Completed 0 tasks so far
 ⏳ Longest streak is 0 days
-
-📈 my github stats
-
-abhisheknaiidu
