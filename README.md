@@ -11,9 +11,3 @@
 📊这周我把时间花在了：<br>
 Java  █████████████████████   100.00 %  <br>
 
-🚧 my todoist stats: <br>
-
-🏆 0 Karma Points  <br>
-🌸 Completed 0 tasks today  <br>
-✅ Completed 0 tasks so far  <br>
-⏳ Longest streak is 0 days  <br>
