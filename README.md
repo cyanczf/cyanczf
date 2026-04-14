@@ -1,11 +1,8 @@
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyanczf&show_icons=true&locale=cn&theme=radical" alt="logo" align="right"
-  <style="margin-bottom: 20px;" />
-</p>
+<h1 align="center">Hi 👋, I'm Ethe</h1>
+<h3 align="center">A passionate developer from Mars</h3>
 
-
-### 嗨，我是Ethe 👋
-
-💬有什么事问我，我很乐意帮忙；
-
-
+- 🔭 I'm currently working on [CheatingYou]
+- 🌱 I'm currently learning **C++ and Python**
+- 👯 I'm looking to collaborate on **xxx**
+- 💬 Ask me about **c++、python**
+- 📫 How to reach me: **xxx**
