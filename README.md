@@ -4,12 +4,9 @@
 </p>
 
 
-### 嗨，我是青辰 👋
+### 嗨，我是Ethe 👋
 
 💬有什么事问我，我很乐意帮忙；
-
-📊这周我把时间花在了：<br>
-Java  █████████████████████   100.00 %  
 
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=cyanczf&theme=column=7" alt="logo" align="center"
