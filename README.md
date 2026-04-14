@@ -8,7 +8,4 @@
 
 💬有什么事问我，我很乐意帮忙；
 
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=cyanczf&theme=column=7" alt="logo" align="center"
-style="margin: auto;"/>
 
